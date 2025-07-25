@@ -5,15 +5,7 @@ It does not come with SSL (optionally it can listen for SSL connections), but th
 
 Note: This module has been setup as a cheap and easy way to run N8n. Data is stored on a EFS volume (you must back this up yourself). We use a single instance (Fargate Spot) so it might be replaced every now and then. N8n is not ment to run stateless behind a load balancer (you will get issues with webhooks).
 
-Check out or blog post about it here: [Run n8n on AWS for less than a cup of coffee per month](https://elasticscale.com/blog/run-n8n-on-aws-for-less-than-a-cup-of-coffee-per-month/)
-
-## About ElasticScale
-
-Discover ES Foundation, the smart digital infrastructure for SaaS companies that want to grow and thrive.
-
-Check out our <a href="https://elasticscale.com" target="_blank" style="color: #FFB600; text-decoration: underline">website</a> for more information.
-
-<img src="https://static.elasticscale.io/email/banner.png" alt="ElasticScale banner" width="100%"/>
+Check out the blog post about it here: [Run n8n on AWS for less than a cup of coffee per month](https://elasticscale.com/blog/run-n8n-on-aws-for-less-than-a-cup-of-coffee-per-month/)
 
 ## Requirements
 
